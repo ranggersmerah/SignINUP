@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SignINUP</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="email_not_valid">Email not valid</string>
+    <string name="input_email">input email</string>
+    <string name="submit">Submit</string>
+    <string name="not_match">Password not match</string>
+</resources>
